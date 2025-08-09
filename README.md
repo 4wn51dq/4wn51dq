@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ethereum-chain and DeFi protocols dev.<br>🤝 I’m looking for help with Exclusive and emerging projects in web3 world.<br>🌱 I’m currently learning Rust-based blockchain development.<br>
+🔭 I’m currently working on Ethereum-chain and DeFi protocols dev.<br>🤝 I’m looking for help with Exclusive and emerging projects in web3 world.<br>🌱 I’m currently learning Smart contracts security and Rust-based blockchain development.<br>
 
 
 ## 🌐 Socials:
